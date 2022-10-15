@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "938320401240",
+    "project_id": "android-conditional-navigation",
+    "storage_bucket": "android-conditional-navigation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938320401240:android:78a37f5bf632198fbecb2d",
+        "android_client_info": {
+          "package_name": "info.fandroid.androidconditionalnavigation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938320401240-3gmtoa5pnv7n74p3m6e2ukt9tapfnb1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFLD7YO9ue-eh-fSCWfBJQ21BTo8K6Tqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938320401240-3gmtoa5pnv7n74p3m6e2ukt9tapfnb1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
